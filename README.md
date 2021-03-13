@@ -7,7 +7,7 @@
 # PRODUCT DEMAND FORECASTING
 
 # Time-Series Forecasting
-![demand_forecasting](https://github.com/andreveit/demand_forecasting/main/demand_forecasting.jpg?raw=true "Title")
+![demand_forecasting](https://github.com/andreveit/demand_forecasting/blob/main/demand_forecasting.jpg?raw=true "Title")
 
 # About this notebook:
 &emsp; Demand forecasting is the process of predict the future demand of products or services over a certain period of time to make intelligent business decisions. From inventory or production planning, warehouses and supply-chain, to price optimization and recommendations systems, it is crucial for the business to understand what is likely to happen in the near future.
